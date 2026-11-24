@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fportal\u002Fapartments\u002F[id]","\u002Fportal\u002Fmonths\u002F[period]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
